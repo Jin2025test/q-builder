@@ -19,7 +19,7 @@ Industrial Equipment Quotation Builder with AI Integration
 3. Access at `https://yourusername.github.io/quotation-builder/`
 
 ### Option 2: Local
-1. Download `Quotation-Builder-AI-vr32.html`
+1. Download `Quotation-Builder-AI-vr33.html`
 2. Open in any modern browser
 3. No server required - runs entirely client-side
 
